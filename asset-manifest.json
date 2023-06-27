@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Get-Gifs/static/css/main.e13e3e49.css",
+    "main.js": "/Get-Gifs/static/js/main.98c3b16d.js",
+    "index.html": "/Get-Gifs/index.html",
+    "main.e13e3e49.css.map": "/Get-Gifs/static/css/main.e13e3e49.css.map",
+    "main.98c3b16d.js.map": "/Get-Gifs/static/js/main.98c3b16d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e13e3e49.css",
+    "static/js/main.98c3b16d.js"
+  ]
+}
